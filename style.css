@@ -1,0 +1,20 @@
+body {
+    background-color: #f5f7fb;
+}
+
+h1, h2, h3 {
+    color: #0b3c5d;
+}
+
+div[data-testid="stMetric"] {
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.plotly-graph-div {
+    border-radius: 12px;
+    background: white;
+    padding: 8px;
+}
